@@ -28,4 +28,6 @@ Launcher3
 * [找个Launcher开发](http://www.fookwood.com/archives/1066)
 * [LauncherRootView和DragLayer的布局过程](http://www.fookwood.com/archives/1085)
 
+1、上传到自已的github账户上了。
+
 
