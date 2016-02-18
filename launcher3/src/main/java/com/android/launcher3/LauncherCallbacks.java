@@ -17,7 +17,7 @@ import java.util.ArrayList;
  * in order to add additional functionality. Some of these are very general, and give extending
  * classes the ability to react to Activity life-cycle or specific user interactions. Others
  * are more specific and relate to replacing parts of the application, for example, the search
- * interface or the wallpaper picker.
+ * interface or the wallpaper picker.来一个中文。
  */
 public interface LauncherCallbacks {
 
